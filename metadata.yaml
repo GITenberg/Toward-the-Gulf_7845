@@ -1,0 +1,31 @@
+_repo: Toward-the-Gulf_7845
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Masters, Edgar Lee
+    aliases:
+    - Masters, E. L. (Edgar Lee)
+    - Ford, Webster
+    birthdate: 1868
+    deathdate: 1950
+    gutenberg_agent_id: '584'
+    url: http://www.gutenberg.org/2009/agents/584
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Lee_Masters
+description: This 1918 verse collection includes the author's epitaph, "To-morrow
+  is my birthday," as well as "Cities of the plain," "Excluded middle," "Samuel Butler,
+  et al," "Johnny Appleseed," 'Victor Rafolski on art," "Delilah," "Bertrand and Gourgaud
+  talk over old times," "Draw the sword, O republic," "Neanderthal," and many others.
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7845'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PS'
+- GITenberg
+title: Toward the Gulf
+url: http://www.gutenberg.org/ebooks/7845
