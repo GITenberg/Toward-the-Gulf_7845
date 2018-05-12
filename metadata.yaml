@@ -1,5 +1,8 @@
 _repo: Toward-the-Gulf_7845
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Masters, Edgar Lee
@@ -15,6 +18,8 @@ description: This 1918 verse collection includes the author's epitaph, "To-morro
   is my birthday," as well as "Cities of the plain," "Excluded middle," "Samuel Butler,
   et al," "Johnny Appleseed," 'Victor Rafolski on art," "Delilah," "Bertrand and Gourgaud
   talk over old times," "Draw the sword, O republic," "Neanderthal," and many others.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7845#Toward-the-Gulf
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
 identifiers:
